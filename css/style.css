@@ -1,0 +1,14 @@
+/*GLOBAL*/
+
+:root {
+  --yellow: #fec63e;
+}
+
+/*Header*/
+
+.header {
+  position: fixed;
+  width: 100%;
+  background: var(--yellow);
+  padding: 15px 0;
+}
