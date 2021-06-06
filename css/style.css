@@ -42,3 +42,13 @@ body {
 .header_menu ul li a:hover {
   color: var(--white);
 }
+
+/*Main*/
+
+.intro {
+  width: 100%;
+  height: 380px;
+  background: url("../img/bg.jpg") no-repeat center;
+  background-size: cover;
+  margin-top: 96px;
+}
